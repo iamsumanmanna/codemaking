@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/codemaking/static/css/main.bce1ee3d.chunk.css",
+    "main.js": "/codemaking/static/js/main.d159f327.chunk.js",
+    "main.js.map": "/codemaking/static/js/main.d159f327.chunk.js.map",
+    "runtime-main.js": "/codemaking/static/js/runtime-main.b88880c8.js",
+    "runtime-main.js.map": "/codemaking/static/js/runtime-main.b88880c8.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/codemaking/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.4f78dc36.chunk.js": "/codemaking/static/js/2.4f78dc36.chunk.js",
+    "static/js/2.4f78dc36.chunk.js.map": "/codemaking/static/js/2.4f78dc36.chunk.js.map",
+    "index.html": "/codemaking/index.html",
+    "precache-manifest.5000360d259064556f09cc9d6dd12b38.js": "/codemaking/precache-manifest.5000360d259064556f09cc9d6dd12b38.js",
+    "service-worker.js": "/codemaking/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/codemaking/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.bce1ee3d.chunk.css.map": "/codemaking/static/css/main.bce1ee3d.chunk.css.map",
+    "static/js/2.4f78dc36.chunk.js.LICENSE.txt": "/codemaking/static/js/2.4f78dc36.chunk.js.LICENSE.txt",
+    "static/media/ReactJs1.jpg": "/codemaking/static/media/ReactJs1.bfdffae5.jpg",
+    "static/media/php.jpg": "/codemaking/static/media/php.f493683d.jpg",
+    "static/media/phpcore.jpg": "/codemaking/static/media/phpcore.5cc8adaa.jpg",
+    "static/media/reactjs10.svg": "/codemaking/static/media/reactjs10.b0783c4d.svg",
+    "static/media/wordpress.jpg": "/codemaking/static/media/wordpress.3eca8cab.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b88880c8.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.4f78dc36.chunk.js",
+    "static/css/main.bce1ee3d.chunk.css",
+    "static/js/main.d159f327.chunk.js"
+  ]
+}
